@@ -1,6 +1,5 @@
-                                                                    # Hi, I'm Vikash Bhuyan
-
-                                                                   ### A Backend Developer
+   # Hi, I'm Vikash Bhuyan
+   ### A Backend Developer
                                                                    
 :computer: I’m currently perceiving **Full Stack Web Development Course At Masai School**
 
