@@ -1,1 +1,3 @@
-This repo is for my portfolio which I have designed using HTML,CSS and JavaScript
+# VikashBhuyan.github.io
+# deployed link
+<a href="vikashbhuyan.github.io/">Deployed Link</a>
